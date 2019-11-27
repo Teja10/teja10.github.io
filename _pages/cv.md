@@ -22,7 +22,7 @@ Work experience
 
 * June 2018 - September 2018: Perception Intern
   * Xmotors Inc
-  * Duties included: Creating instance segmentation and tracking model for highway driving
+  * Duties included: Perception models for highway driving (Instance Segmentation/Free Space Detection/Vehicle Tracking)
   
 Skills
 ======
