@@ -2,7 +2,7 @@
 title: "Lead TA - EEC193 (AI Systems)"
 collection: teaching
 type: "Senior Design"
-permalink: /teaching/2019-teaching
+permalink: /teaching/2015-spring-teaching-2
 venue: "University of California Davis, Department of ECE"
 date: Fall 2019 - Winter 2020
 location: "Davis, California"
