@@ -2,9 +2,9 @@
 title: "EEC193A - Autonomous Vehicle Project"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2018-teaching
+permalink: /teaching/2014-spring-teaching-1
 venue: "University of California, Davis"
-date: Winter - Spring 2019
+date: 2018-09-18
 location: "Davis, California"
 ---
 
