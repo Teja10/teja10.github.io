@@ -101,7 +101,7 @@ author:
   youtube          :
   wikipedia        :
 
-
+exclude: [vendor]
 # Reading Files
 include:
   - .htaccess
