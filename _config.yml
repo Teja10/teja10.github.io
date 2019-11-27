@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Teja Aluru"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Teja Aluru"
+description              : &description "Computer Engineering @ UC Davis"
+url                      : https://teja10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Teja10/teja10.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Teja Aluru"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "ECE @ UC Davis"
   location         : "Davis, California"
   email            : "tsaluru@ucdavis.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -96,13 +95,11 @@ author:
   keybase          :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/teja-aluru-786a0779/"
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -172,7 +169,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
